@@ -18,5 +18,5 @@ Typing Test will store the typing style and typing speed of a person and will ma
 Both these steps will again be reconsidered whenever the person login to our site.
 
 ## Technologies Used
-We will be using HTML, CSS, JavaScript and Bootstrap for the FrontEnd. For the BackEnd we'll use Flask(Python). Mrosoft's Face API is used for
+We will be using HTML, CSS, JavaScript and Bootstrap for the FrontEnd. For the BackEnd we'll use Flask(Python). Microsoft's Face API is used for
 Facial Recogination and typingDNA is used for recording the Typing Pattern of the Users. SQLlite is used for the database.
